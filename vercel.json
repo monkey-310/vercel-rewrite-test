@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/ruji/:path*",
+      "destination": "https://trade.levana.finance/:path*"
+    }
+  ]
+}
